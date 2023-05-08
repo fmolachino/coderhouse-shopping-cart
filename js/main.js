@@ -21,7 +21,7 @@ const products = [
 // cart init
 const cart = [];
 
-// fill product-list ul
+// fill product-list ul as div elements
 const productList = document.getElementById('product-list');
 products.forEach(product => {
     const li = document.createElement('div');
