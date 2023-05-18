@@ -6,7 +6,7 @@
     { "id": 5, "name": "Rifle M4", "price": 7500.99, "image": "./images/guns/m4.jpg" },
     { "id": 6, "name": "Revolver 22", "price": 500.99, "image": "./images/guns/mini-gun-22.jpg" },
     { "id": 7, "name": "MP 22", "price": 950.99, "image": "./images/guns/mp-22.jpg" },
-    { "id": 8, "name": "Ammo Box 1000 Rounds", "price": 600.99, "image": "./images/ammo/ammo-box-9.jpg" },
+    { "id": 8, "name": "Ammo Box", "price": 600.99, "image": "./images/ammo/ammo-box-9.jpg" },
     { "id": 9, "name": "Luger 9 - 100 Rounds", "price": 120.99, "image": "./images/ammo/ammo-lurger-100-9.jpg" },
     { "id": 10, "name": "Winchester 9 - 100 Rounds", "price": 150.99, "image": "./images/ammo/ammo-winchester-100-9.jpg" },
     { "id": 11, "name": "Barret M82", "price": 90000.99, "image": "./images/guns/barret-m82.jpg"},

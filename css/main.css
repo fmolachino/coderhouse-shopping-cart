@@ -1,3 +1,16 @@
+html{
+    background-color: lightslategray;
+}
+
+
+#product-list div{
+    margin-bottom: 6px;
+    text-align: center;
+}
+
+h3{
+    margin: 2px 2px;
+}
 
 .cart-container{
     width: 30vw;

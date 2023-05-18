@@ -26,7 +26,8 @@ fetch(url)
         const li = document.createElement('div');
         li.innerHTML = `
             <img src=${product.image} />
-            <h3>${product.name} - $${product.price}</h3>
+            <h3>${product.name}</h3>
+            <h3>$${product.price}<h3>
             <input type="number" id="product-quantity-${product.id}" min="1" value="1">
             <br><br>
             <button onclick="addToCart(${product.id})">Add to Cart</button>
